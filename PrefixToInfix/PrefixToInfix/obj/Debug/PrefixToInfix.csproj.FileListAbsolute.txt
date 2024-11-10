@@ -1,0 +1,8 @@
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\bin\Debug\PrefixToInfix.exe.config
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\bin\Debug\PrefixToInfix.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\bin\Debug\PrefixToInfix.pdb
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\obj\Debug\PrefixToInfix.Form1.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\obj\Debug\PrefixToInfix.Properties.Resources.resources
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\obj\Debug\PrefixToInfix.csproj.GenerateResource.Cache
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\obj\Debug\PrefixToInfix.exe
+C:\Users\LOQ\OneDrive\اسناد\Visual Studio 2015\Projects\PrefixToInfix\PrefixToInfix\obj\Debug\PrefixToInfix.pdb
